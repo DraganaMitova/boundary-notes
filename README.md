@@ -163,14 +163,15 @@ essays/cognition/the-brain-does-not-compute-everything.md
 essays/cognition/intelligence-as-disciplined-scarcity.md
 ```
 
-### Creation and Emotion
+### Psychology and Boundaries
 
-How do emotional forces like anger and love act as signals for boundary detection and system construction?
+How do internal emotional pressures, pain, and power interact with boundaries to determine human behavior and conflict?
 
 Documents:
 
 ```text
-essays/creation/anger-love-honesty-and-creation.md
+essays/psychology/anger-love-honesty-and-creation.md
+essays/psychology/why-we-hurt-each-other.md
 ```
 
 ---
