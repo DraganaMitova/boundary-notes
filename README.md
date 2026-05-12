@@ -183,6 +183,7 @@ essays/psychology/shame-as-identity-collapse.md
 essays/psychology/narcissism-ego-as-boundary-problem.md
 essays/psychology/trauma-responses-as-boundary-adaptations.md
 essays/psychology/manipulation-as-boundary-violation.md
+essays/psychology/loneliness-as-a-boundary-problem.md
 ```
 
 ---
