@@ -96,6 +96,16 @@ Example document:
 essays/physics/observation-is-not-transition.md
 ```
 
+### Identity and Self
+
+What makes a system an identity instead of just a persistent surface? Why names, memory, and output are not enough.
+
+Example document:
+
+```text
+essays/identity/name-is-not-identity.md
+```
+
 ### AI and Action
 
 How should intelligent systems separate suggestion, permission, execution, and proof?
