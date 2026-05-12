@@ -181,6 +181,7 @@ essays/psychology/jealousy-as-fear-crossing-into-possession.md
 essays/psychology/empathy-as-contact-without-collapse.md
 essays/psychology/shame-as-identity-collapse.md
 essays/psychology/narcissism-ego-as-boundary-problem.md
+essays/psychology/trauma-responses-as-boundary-adaptations.md
 ```
 
 ---
