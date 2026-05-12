@@ -86,6 +86,16 @@ Example document:
 essays/energy/electricity-consumption-and-boundary-intelligence.md
 ```
 
+### Physics and Observation
+
+What does Schrödinger's cat teach us about boundaries, observation, and when possibility becomes reality?
+
+Example document:
+
+```text
+essays/physics/observation-is-not-transition.md
+```
+
 ### AI and Action
 
 How should intelligent systems separate suggestion, permission, execution, and proof?
