@@ -172,6 +172,7 @@ Documents:
 ```text
 essays/psychology/anger-love-honesty-and-creation.md
 essays/psychology/why-we-hurt-each-other.md
+essays/psychology/why-people-steal.md
 ```
 
 ---
