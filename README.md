@@ -163,6 +163,16 @@ essays/cognition/the-brain-does-not-compute-everything.md
 essays/cognition/intelligence-as-disciplined-scarcity.md
 ```
 
+### Creation and Emotion
+
+How do emotional forces like anger and love act as signals for boundary detection and system construction?
+
+Documents:
+
+```text
+essays/creation/anger-love-honesty-and-creation.md
+```
+
 ---
 
 ## Suggested Reading Order
