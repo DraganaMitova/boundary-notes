@@ -96,6 +96,7 @@ Documents:
 essays/physics/observation-is-not-transition.md
 essays/physics/the-event-horizon-as-a-boundary-problem.md
 essays/physics/quantum-gravity-as-a-boundary-problem.md
+essays/physics/vacuum-energy-as-a-boundary-problem.md
 ```
 
 ### Identity and Self
