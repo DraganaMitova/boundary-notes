@@ -175,6 +175,7 @@ essays/psychology/why-we-hurt-each-other.md
 essays/psychology/why-people-steal.md
 essays/psychology/anxiety-as-a-boundary-problem.md
 essays/psychology/people-pleasing-as-self-abandonment.md
+essays/psychology/overthinking-as-failed-control.md
 ```
 
 ---
