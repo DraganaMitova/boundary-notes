@@ -88,12 +88,13 @@ essays/energy/electricity-consumption-and-boundary-intelligence.md
 
 ### Physics and Observation
 
-What does Schrödinger's cat teach us about boundaries, observation, and when possibility becomes reality?
+What do quantum mechanics and black holes teach us about boundaries, observation, irreversibility, and when possibility becomes reality?
 
-Example document:
+Documents:
 
 ```text
 essays/physics/observation-is-not-transition.md
+essays/physics/the-event-horizon-as-a-boundary-problem.md
 ```
 
 ### Identity and Self
