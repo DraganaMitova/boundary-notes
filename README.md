@@ -107,6 +107,16 @@ Example document:
 essays/identity/name-is-not-identity.md
 ```
 
+### Consciousness and Experience
+
+What boundary conditions matter for experience? Why processing, attention, memory, and output may not answer the question.
+
+Example document:
+
+```text
+essays/consciousness/consciousness-as-a-boundary-problem.md
+```
+
 ### AI and Action
 
 How should intelligent systems separate suggestion, permission, execution, and proof?
