@@ -99,6 +99,7 @@ essays/physics/quantum-gravity-as-a-boundary-problem.md
 essays/physics/vacuum-energy-as-a-boundary-problem.md
 essays/physics/matter-antimatter-asymmetry-as-a-boundary-problem.md
 essays/physics/dark-matter-as-a-boundary-problem.md
+essays/physics/the-arrow-of-time-as-a-boundary-problem.md
 ```
 
 ### Identity and Self
